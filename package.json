@@ -1,0 +1,14 @@
+{
+  "name": "net.kwxxw.udon-reflection",
+  "displayName": "Udon Reflection",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "you can use something like System.Reflection in Udon.",
+  "author": {
+    "name": "kwxxw",
+    "url": "https://yamadev.booth.pm"
+  },
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.7.1"
+  }
+}

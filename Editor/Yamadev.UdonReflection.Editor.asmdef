@@ -1,0 +1,19 @@
+{
+    "name": "Yamadev.UdonReflection.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:84265b35cca3905448e623ef3903f0ff",
+        "GUID:82823b2093991c64d8a41ca1f119cf4a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
