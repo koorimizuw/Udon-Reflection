@@ -14,7 +14,7 @@ namespace Yamadev.UdonReflection
         }
     }
 
-    public static class UdonFieldInfoExtentions
+    public static class UdonFieldInfoExtensions
     {
         private static object[] Parse(this UdonFieldInfo field)
         {

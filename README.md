@@ -14,7 +14,7 @@
 ## How to use
 
 ### Setup
-Inherit your class from `UdonReflectionBehaviour`, that's all.
+Inherit your UdonSharp class from `UdonReflectionBehaviour`, that's all.
 
 ### Available Methods
 UdonReflectionBehaviour
