@@ -18,7 +18,7 @@ internal static class UdonSharpPatcher
 
     static UdonSharpPatcher()
     {
-        Harmony harmony = new Harmony("Yamadev.YamaPlayer.Editor.UdonSharpPatcher");
+        Harmony harmony = new Harmony("Yamadev.UdonReflection.Editor.UdonSharpPatcher");
 
         var emitContextType = allTypes.Value.FirstOrDefault(t => t.FullName == "UdonSharp.Compiler.Emit.EmitContext");
         var emitContextOriginal = emitContextType.GetMethod("InitConstFields", BindingFlags.NonPublic | BindingFlags.Instance);
